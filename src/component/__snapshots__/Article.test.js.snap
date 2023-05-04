@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`about page testing snapshot 1 1`] = `
+<table
+  className="custom-border"
+>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Email
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      key="0"
+    >
+      <td>
+        John Doe
+      </td>
+      <td>
+        john.doe@example.com
+      </td>
+    </tr>
+    <tr
+      key="1"
+    >
+      <td>
+        Jane Doe
+      </td>
+      <td>
+        jane.doe@example.com
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
